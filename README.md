@@ -1,12 +1,4 @@
 # Sampling Studio
-## Screenshots
-*Viewing Mode*
-![Viewing Mode](images/viewing-mode.png)
-
-*Edit Mode*
-![Edit Mode](images/edit-mode.png)
-
-
 ## Introduction
 Sampling an analog signal is a fundamental step in any digital signal processing system. The **Nyquist–Shannon sampling theorem** guarantees the perfect reconstruction of a signal if it is sampled at a frequency equal to or greater than twice its maximum frequency. This project explores the importance of the Nyquist rate by enabling users to sample and recover signals interactively, analyze the effects of aliasing, and experiment with different reconstruction methods.
 
@@ -28,6 +20,9 @@ These methods allow users to explore the strengths and weaknesses of various rec
     - The reconstructed signal.
     - The difference (error) between the original and reconstructed signals.
     - The frequency domain for aliasing analysis.
+    
+    *Viewing Mode*
+![Viewing Mode](images/viewing-mode.png)
 - **Signal Mixer/Composer**
   - Users can create custom signals by mixing multiple sinusoidal components with different frequencies, magnitudes and phase shifts.
   - Add or remove sinusoidal components dynamically.
@@ -38,6 +33,9 @@ These methods allow users to explore the strengths and weaknesses of various rec
 - **Real-Time Processing**
    
    Real-time sampling and recovery with instant updates as the user modifies parameters.
+
+  *Edit Mode*
+![Edit Mode](images/edit-mode.png)
 - **Reconstruction Methods**
   Change reconstruction methods using a dropdown menu:
 
