@@ -1,5 +1,6 @@
 # Sampling Studio
 ## Screenshots
+![Viewing Mode](images/viewing mode.png)
 
 ## Introduction
 Sampling an analog signal is a fundamental step in any digital signal processing system. The **Nyquist–Shannon sampling theorem** guarantees the perfect reconstruction of a signal if it is sampled at a frequency equal to or greater than twice its maximum frequency. This project explores the importance of the Nyquist rate by enabling users to sample and recover signals interactively, analyze the effects of aliasing, and experiment with different reconstruction methods.
