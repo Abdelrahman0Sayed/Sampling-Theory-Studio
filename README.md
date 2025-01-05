@@ -44,3 +44,7 @@ These methods allow users to explore the strengths and weaknesses of various rec
   - Zero-Order Hold Method.
 
   - Cubic Spline Method.
+
+### **Demo**
+![Demo Video](Task2_Demo.mp4)
+
