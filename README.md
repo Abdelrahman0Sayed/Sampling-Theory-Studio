@@ -46,5 +46,6 @@ These methods allow users to explore the strengths and weaknesses of various rec
   - Cubic Spline Method.
 
 ### **Demo**
-![Demo Video](Task2_Demo.mp4)
+https://github.com/user-attachments/assets/0ee2c2ba-de96-4053-997c-1dd8e6c2a985
+
 
