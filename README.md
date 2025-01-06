@@ -35,7 +35,7 @@ These methods allow users to explore the strengths and weaknesses of various rec
    Real-time sampling and recovery with instant updates as the user modifies parameters.
 
   *Edit Mode*
-![Edit Mode](images/edit-mode.png)
+![Edit Mode](images/EditMode.gif)
 - **Reconstruction Methods**
   Change reconstruction methods using a dropdown menu:
 
