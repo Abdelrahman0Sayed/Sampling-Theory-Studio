@@ -49,3 +49,57 @@ These methods allow users to explore the strengths and weaknesses of various rec
 https://github.com/user-attachments/assets/0ee2c2ba-de96-4053-997c-1dd8e6c2a985
 
 
+
+## **Setup**
+
+- Clone the repo
+```bash
+git clone https://github.com/Abdelrahman0Sayed/Sampling-Theory-Studio.git
+```
+- Enter Project Folder
+```bash
+cd Sampling-Theory-Studio
+```
+- Install the requirements
+```bash
+pip install -r requirements.txt
+```
+- Run the Application
+```bash
+python SamplingStudio.py
+```
+
+## Contributors <a name = "Contributors"></a>
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Abdelrahman0Sayed" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/113141265?v=4" width="150px;" alt="Abdelrahman Sayed Nasr"/>
+    <br />
+    <sub><b>Abdelrahman Sayed Nasr</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/MahmoudBL83" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/95527734?v=4" width="150px;" alt="Mahmoud Bahaa"/>
+    <br />
+    <sub><b>Mahmoud Bahaa</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/momowalid" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/127145133?v=4" width="150px;" alt="Mohamed Walid"/>
+    <br />
+    <sub><b>Mohamed Walid</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Karim12Elbadwy" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/190773888?v=4" width="150px;" alt="Kareem El-Badawi"/>
+    <br />
+    <sub><b>Kareem El-Badawi</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/NadaMohamedElBasel" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/110432081?v=4" width="150px;" alt="Nada El-Basel"/>
+    <br />
+    <sub><b>Nada El-Basel</b></sub></a>
+    </td>
+      </tr>
